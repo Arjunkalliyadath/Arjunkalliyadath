@@ -135,7 +135,7 @@ Give it a company website — it discovers the product catalog, pulls customer r
 <tr>
 <td width="50%" valign="top">
 
-### 📄 GST2A — Document AI Pipeline <sub>(repo not public yet)</sub>
+### 📄 [GST2A — Document AI Pipeline](https://github.com/Arjunkalliyadath/GST2A-Document-AI)
 Production document-intelligence system for GST/E-way bill extraction: triple-OCR (PaddleOCR + Tesseract + EasyOCR), automatic shadow/skew correction, and a fine-tuned LayoutLMv3 model with auto-retraining, exporting structured Excel reports from noisy real-world scans.
 
 `FastAPI` `OpenCV` `LayoutLMv3` `OCR`
@@ -143,7 +143,7 @@ Production document-intelligence system for GST/E-way bill extraction: triple-OC
 </td>
 <td width="50%" valign="top">
 
-### 🤟 Sign Language → Text Converter <sub>(repo not public yet)</sub>
+### 🤟 [Sign Language → Text Converter](https://github.com/Arjunkalliyadath/Sign-Language-to-Text)
 Real-time ASL-to-English translator — MediaPipe + a custom CNN trained on 31,000+ gesture images. **Published at IEEE ICCCI 2023** and won **Best Paper Award** at KARE Project Expo 2023. Boosted user satisfaction 40% in testing.
 
 `TensorFlow` `CNN` `MediaPipe` `OpenCV` 🏆
@@ -168,7 +168,7 @@ Random Forest regressor (**R² = 0.93**) estimating used-car resale value in ₹
 | **[Netflix-Tudum](https://github.com/Arjunkalliyadath/Netflix-Tudum)** | Django clone of Netflix's browsing experience — real auth, watchlist, live search, deployed with WhiteNoise |
 | **[Browsebrief](https://github.com/Arjunkalliyadath/Browsebrief)** | Scrapes any webpage with Playwright and summarizes it with LangChain + Groq |
 | **[Calculator_Neon](https://github.com/Arjunkalliyadath/Calculator_Neon)** | Cyberpunk-themed calculator, vanilla HTML/CSS/JS, full keyboard support |
-| **Password Management System (Java)** | Desktop password manager using SHA-1 hashing and a custom hash table with linear probing |
+| **[Password-Management-System](https://github.com/Arjunkalliyadath/Password-Management-System)** | Desktop password manager using SHA-1 hashing and a custom hash table with linear probing |
 
 </details>
 
@@ -207,6 +207,7 @@ Random Forest regressor (**R² = 0.93**) estimating used-car resale value in ₹
 
 <a href="https://www.linkedin.com/in/arjun-k-062298211/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arjunkalliyadath2001@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <sub>This README was written with 100% human effort and, ironically, never ran through a sentiment classifier. Confidence: high anyway.</sub>
 
 </div>
