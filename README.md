@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Data+Scientist+%7C+ML+%2F+AI+Engineer;I+turn+messy+real-world+data+into+decisions;Ran+100%2B+AI+surveillance+cameras+in+production;Built+a+4-app+sentiment+intelligence+suite;Currently%3A+open+to+Data+%2F+ML+roles" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/arjun-k-062298211/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:arjunkalliyadath2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arjunkalliyadath2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.credly.com/go/qs2sCLyH"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-<a href="https://arjunkalliyadath.github.io"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://arjunkalliyadath.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Data%20%2F%20ML%20Roles-brightgreen?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Kozhikode%2C%20Kerala%2C%20India-blue?style=flat-square)
@@ -23,7 +23,7 @@
   "role": ["Data Scientist", "ML Engineer", "Full-Stack Builder"],
   "based_in": "Kozhikode, Kerala, India",
   "currently_doing": "Interviewing for Data Science / ML Engineer roles",
-  "previously_did": "Ran the IT backbone for a govt. AI surveillance project — 100+ cameras, 99.5% uptime",
+  "previously_did": "Ran a govt. AI camera project — 100+ cameras, 99.5% uptime",
   "specialty": "Turning unstructured text, images and documents into decisions",
   "sentiment_on_new_opportunities": "strongly positive",
   "confidence": "98.7%"
@@ -135,7 +135,7 @@ Give it a company website — it discovers the product catalog, pulls customer r
 <tr>
 <td width="50%" valign="top">
 
-### 📄 GST2A — Document AI Pipeline
+### 📄 GST2A — Document AI Pipeline <sub>(repo not public yet)</sub>
 Production document-intelligence system for GST/E-way bill extraction: triple-OCR (PaddleOCR + Tesseract + EasyOCR), automatic shadow/skew correction, and a fine-tuned LayoutLMv3 model with auto-retraining, exporting structured Excel reports from noisy real-world scans.
 
 `FastAPI` `OpenCV` `LayoutLMv3` `OCR`
@@ -143,7 +143,7 @@ Production document-intelligence system for GST/E-way bill extraction: triple-OC
 </td>
 <td width="50%" valign="top">
 
-### 🤟 Sign Language → Text Converter
+### 🤟 Sign Language → Text Converter <sub>(repo not public yet)</sub>
 Real-time ASL-to-English translator — MediaPipe + a custom CNN trained on 31,000+ gesture images. **Published at IEEE ICCCI 2023** and won **Best Paper Award** at KARE Project Expo 2023. Boosted user satisfaction 40% in testing.
 
 `TensorFlow` `CNN` `MediaPipe` `OpenCV` 🏆
@@ -206,8 +206,7 @@ Random Forest regressor (**R² = 0.93**) estimating used-car resale value in ₹
 ### Let's talk data, models, or the next thing worth building.
 
 <a href="https://www.linkedin.com/in/arjun-k-062298211/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:arjunkalliyadath2001@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arjunkalliyadath2001@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <sub>This README was written with 100% human effort and, ironically, never ran through a sentiment classifier. Confidence: high anyway.</sub>
 
 </div>
