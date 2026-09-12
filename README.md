@@ -19,7 +19,7 @@ I'm a Computer Science engineer who kept saying yes to whatever layer of the sta
 
 ## Some things I've built
 
-- 🛡️ **[TrustLens](https://github.com/Arjunkalliyadath/TrustLens)** — turns platform trust & safety transparency reports into a forecasting + anomaly-detection dashboard. `Python` `Streamlit`
+- 🛡️ **[TrustLens](https://github.com/Arjunkalliyadath/TrustLens)** — turns platform trust & safety transparency reports -> forecasting + anomaly-detection dashboard. `Python` `Streamlit`
 - 📄 **[GSTVision AI](https://github.com/Arjunkalliyadath/GSTVision-AI)** — reads scanned GST documents with a triple-OCR pipeline + fine-tuned LayoutLMv3. `Django` `FastAPI` `React`
 - 🎬 **[Netflix Tudum](https://github.com/Arjunkalliyadath/Netflix-Tudum)** — a Netflix-style browsing experience built from scratch: auth, watchlist, seeded catalog. `Django` `PostgreSQL`
 - 🤟 **[Sign Language Translator](https://github.com/Arjunkalliyadath/Sign-Language-Translator)** — real-time ASL-to-speech over webcam. IEEE-published, Best Paper award. `TensorFlow` `OpenCV`
