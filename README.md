@@ -4,9 +4,8 @@
 
 ### I build systems that turn messy, human input — a tweet, a scanned tax form, a hand sign — into something a computer can act on.
 
-📍 Kozhikode, Kerala, India
+📍 Kozhikode, Kerala, India · 📧 [arjunkalliyadath2001@gmail.com](mailto:arjunkalliyadath2001@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-arjunkalliyadath2001%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arjunkalliyadath2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun%20K-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-k-062298211/)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square)](mailto:arjunkalliyadath2001@gmail.com)
 
