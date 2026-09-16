@@ -13,43 +13,31 @@
 
 ---
 
-## 👋 A bit about me
+I'm a Computer Science engineer who kept saying yes to whatever layer of the stack needed attention — training the model, building the API around it, keeping the server it runs on alive. Before any of the projects below: a year as a Graduate Apprentice keeping a 100+ camera government AI-surveillance network at 99.5% uptime, then three months at [Ladder7](https://www.ladder7.in/) as an AI/ML intern, shipping four products end-to-end — scraper to model to dashboard. One of my earlier builds, a real-time sign-language translator, was published at an IEEE conference and won Best Paper at my university's project expo.
 
-I'm a Computer Science engineer who likes taking things apart, figuring out how they work, and then trying to build my own version.
+**Right now:** just wrapped up at Ladder7 and looking for what's next — software engineering, backend, or ML. I'm not fussy about the title, I want to work on something real.
 
-Somewhere along the way, I ended up working across ML, backend, APIs, automation, dashboards, and the infrastructure underneath them.
+## Some things I've built
 
-I've worked on a 100+ camera AI-surveillance network, built AI/ML products at Ladder7, and spent a lot of time turning random ideas into things that actually run.
+- 🛡️ [**TrustLens**](https://github.com/Arjunkalliyadath/TrustLens) — turns platform trust & safety transparency reports → forecasting + anomaly-detection dashboard. `Python` `Streamlit`
+- 📄 [**GSTVision AI**](https://github.com/Arjunkalliyadath/GSTVision-AI) — reads scanned GST documents with a triple-OCR pipeline + fine-tuned LayoutLMv3. `Django` `FastAPI` `React`
+- 🎬 [**Netflix Tudum**](https://github.com/Arjunkalliyadath/Netflix-Tudum) — a Netflix-style browsing experience built from scratch: auth, watchlist, seeded catalog. `Django` `PostgreSQL`
+- 🤟 [**Sign Language Translator**](https://github.com/Arjunkalliyadath/Sign-Language-Translator) — real-time ASL-to-speech over webcam. IEEE-published, Best Paper award. `TensorFlow` `OpenCV`
 
-One of my projects — a real-time sign-language translator — made it to an IEEE conference and won Best Paper at my university's project expo.
+Plus four sentiment-analysis dashboards across YouTube, X/Twitter, Google Reviews, and general text (same scrape → analyze → visualize pattern, different sources), a Java password manager presented at ICCES 2022, and a few smaller ML/web builds — all in the repos below.
 
-**Right now:** figuring out what's next and building things in the meantime.
+## Toolbox
 
-## 🚀 Things I've built
-
-- 🛡️ **[TrustLens](https://github.com/Arjunkalliyadath/TrustLens)** — forecasting + anomaly detection for platform trust & safety reports. `Python` `Streamlit`
-- 📄 **[GSTVision AI](https://github.com/Arjunkalliyadath/GSTVision-AI)** — OCR + document understanding for GST documents. `Django` `FastAPI` `React`
-- 🎬 **[Netflix Tudum](https://github.com/Arjunkalliyadath/Netflix-Tudum)** — a Netflix-style browsing experience built from scratch. `Django` `PostgreSQL`
-- 🤟 **[Sign Language Translator](https://github.com/Arjunkalliyadath/Sign-Language-Translator)** — real-time ASL → speech over webcam. `TensorFlow` `OpenCV`
-
-And a bunch of other experiments, dashboards, ML projects, web apps, and probably some code I'll look back at later and wonder what I was thinking.
-
-## 🧰 Stuff I use
-
-`Python` `Java` `JavaScript` `SQL`
-
-`Django` `FastAPI` `Flask` `React`
-
-`TensorFlow` `PyTorch` `scikit-learn` `HuggingFace`
-`OpenCV` `Pandas` `Tableau`
-
-`Git` `Docker` `PostgreSQL` `Playwright` `Linux`
+- **Languages & Frameworks** — `Python` `Java` `JavaScript` `Django` `FastAPI` `Flask` `React`
+- **ML / Data** — `TensorFlow` `PyTorch` `scikit-learn` `HuggingFace` `OpenCV` `Pandas` `Tableau`
+- **Tools** — `Git` `Docker` `PostgreSQL` `Playwright` `Linux`
 
 ---
 
 <div align="center">
 
-### ⌘ Code what you learn. ⚡ Share what you build.
-### ✦ All that is not given is lost.
+B.Tech, Computer Science & Engineering (Data Science specialization with IBM) · Kalasalingam Academy of Research and Education
+
+*If any of this looks like a fit for something you're hiring for — my inbox is open.*
 
 </div>
